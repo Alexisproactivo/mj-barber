@@ -4,7 +4,7 @@
  */
 
 import React, { useState, useEffect } from "react";
-import { Scissors, Phone, Menu, X, ShieldCheck } from "lucide-react";
+import {  Phone, Menu, X, ShieldCheck } from "lucide-react";
 import { BUSINESS_CONFIG } from "../models/business.model";
 
 interface NavbarProps {
