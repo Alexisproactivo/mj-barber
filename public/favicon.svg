@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="12" fill="#0d0f12"/>
+  <rect x="2" y="2" width="60" height="60" rx="10" fill="none" stroke="#c5a880" stroke-width="1.5" stroke-opacity="0.4"/>
+  <!-- Traditional Barber Pole Silhouette & Scissors in Warm Brass -->
+  <g fill="none" stroke="#d4af37" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="24" cy="44" r="5" stroke="#c5a880"/>
+    <circle cx="40" cy="44" r="5" stroke="#c5a880"/>
+    <line x1="28" y1="40" x2="44" y2="16"/>
+    <line x1="36" y1="40" x2="20" y2="16"/>
+    <circle cx="32" cy="28" r="2" fill="#d4af37"/>
+  </g>
+  <text x="32" y="59" font-family="'Cinzel', serif, sans-serif" font-size="7.5" font-weight="700" fill="#f3f4f6" text-anchor="middle" letter-spacing="1">MJ</text>
+</svg>
